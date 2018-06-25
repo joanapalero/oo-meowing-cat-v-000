@@ -4,8 +4,3 @@ class Cat
   attr_reader :name
   end
   
-class Person
-  attr_writer :name
-  attr_reader :name
- 
-end
