@@ -1,8 +1,7 @@
 ## code your solution here. 
 class Cat 
   attr_writer = :name 
-  def cats_name = ( cats_name )
-    @cats_name = cats_name
+  attr_reader :name
   end
   
 class Person
