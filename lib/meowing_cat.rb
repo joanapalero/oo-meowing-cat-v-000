@@ -4,7 +4,3 @@ class Cat
     @cats_name = cats_name
   end
   
-  def cats_name
-    @cats_name
-  end
-end
