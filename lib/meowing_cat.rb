@@ -1,6 +1,6 @@
 ## code your solution here. 
 class Cat 
-  attr_
+  attr_name = 
   def cats_name = ( cats_name )
     @cats_name = cats_name
   end
